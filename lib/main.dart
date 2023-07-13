@@ -174,7 +174,7 @@ class MyApp extends StatelessWidget {
                   decoration: BoxDecoration(
                     boxShadow: [
                       BoxShadow(
-                        color: const Color(0xffF9703B).withOpacity(.3),
+                        color: const Color(0xffF9703B).withOpacity(0.3),
                         spreadRadius: 2,
                         blurRadius: 5,
                         offset: const Offset(0, 3),
